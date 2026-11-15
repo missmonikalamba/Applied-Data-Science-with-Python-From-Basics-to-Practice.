@@ -77,6 +77,18 @@ jupyter lab
 3. **Answer keys:** the `instructor/` folder contains lab solutions and quiz answers. For graded cohorts, move it to a separate **private** repository before publishing.
 4. Optional: enable GitHub Pages or build a Jupyter Book from the notebooks.
 
+## 🤖 Virtual Tutor
+
+An AI-powered Virtual Tutor designed to support students in their learning journey through interactive and personalized learning assistance.
+
+Explore the Virtual Tutor using the link below:
+
+<p align="center">
+  <a href="https://notebook.google.com/notebook/6fe22ade-ef66-469c-8d1e-5a9d7d13e926?authuser=1">
+    <img src="https://img.shields.io/badge/Launch-Virtual%20Tutor-blue?style=for-the-badge&logo=google&logoColor=white" alt="Launch Virtual Tutor"/>
+  </a>
+</p>
+
 ## Requirements
 
 Python 3.11 or 3.12 · NumPy · Pandas · Matplotlib · Seaborn · SciPy · statsmodels · scikit-learn · openpyxl (Excel I/O) · Jupyter or Google Colab · a free GitHub account.

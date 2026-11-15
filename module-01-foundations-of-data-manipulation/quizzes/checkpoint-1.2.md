@@ -42,4 +42,3 @@
 
 ---
 
-Answers and feedback are in the instructor answer key. If you are self-studying, ask your facilitator, or use the Google Forms / Moodle version for instant feedback.

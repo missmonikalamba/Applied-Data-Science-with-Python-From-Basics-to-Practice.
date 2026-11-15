@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+# files written by the lab exercises
+*.png
+!datasets/*.png
+monthly_revenue.csv
+region_revenue.json
+store_units.csv
+top10.xlsx
+category_revenue.png

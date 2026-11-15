@@ -142,4 +142,3 @@ Difficulty mix: Recall 8 · Application 8 · Analysis 4.
 
 ---
 
-Answers and feedback are in the instructor answer key. If you are self-studying, ask your facilitator, or use the Google Forms / Moodle version for instant feedback.

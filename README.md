@@ -93,6 +93,11 @@ Explore the Virtual Tutor using the link below:
 
 Python 3.11 or 3.12 · NumPy · Pandas · Matplotlib · Seaborn · SciPy · statsmodels · scikit-learn · openpyxl (Excel I/O) · Jupyter or Google Colab · a free GitHub account.
 
+## Feedback Form
+
+https://forms.gle/KiA5b2TBHs4wgP4W8
+
+
 ## License
 
 All course materials are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE.md). Datasets keep their own open licenses, listed in [`datasets/README.md`](datasets/README.md). Slide icons are from Font Awesome Free (CC BY 4.0).
